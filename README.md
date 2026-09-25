@@ -39,4 +39,4 @@ Plataforma colaborativa para descobrir eventos culturais. Permite buscar eventos
 
 ## Contato
 
-O melhor contato para projetos e discussions está disponível através do GitHub.
+O melhor contato para projetos e conversas está disponível através do GitHub.
