@@ -1,59 +1,42 @@
 # Willian Jonatan
 
-**Full-Stack Developer • Web • Automation**
+Estudante de TI e desenvolvimento de software, com interesse em cibersegurança e no uso responsável de IA aplicada. Construindo sistemas web e automação para transformar problemas reais em soluções simples e úteis.
 
-IT Technician student building real web systems — from database to interface.
+## Sobre
 
-## About me
+- Estudante de TI em busca de evolução técnica e profissional.
+- Desenvolvedor em formação, com foco em aplicações web, automação e segurança.
+- Interesses em cibersegurança, IA aplicada e desenvolvimento de software.
 
-Sou estudante de Técnico em Informática e desenvolvo sistemas web completos. Meus projetos nascem de problemas reais de negócios locais: oficinas mecânicas, varejo no atacado e acesso à cultura.
+## Projetos
 
-Não coleciono tutoriais — construo produtos que funcionam, com login, banco de dados, testes e deploy.
+### OrcaPro
 
-## What I build
+Sistema de orçamentos para oficinas mecânicas, com cadastro de clientes e veículos, criação de orçamentos, geração de PDF, controle de pagamentos e autenticação. O projeto também inclui catálogo de peças e serviços e um painel de acompanhamento.
+[Repositório](https://github.com/williandevbr/oficina-orcamentos) · [Demonstração](https://orca-pro-nine.vercel.app)
 
-Sistemas e soluções digitais que resolvem problemas do dia a dia: orçamentos, catálogos, pedidos e descoberta de eventos. Cada projeto abaixo está rodando (ou pronto para rodar) com código, testes e documentação.
+### BA Perfumes
 
-## Tech Stack
+Catálogo digital para vendas no atacado, com busca, filtros, páginas de produto, carrinho persistente e finalização do pedido diretamente no WhatsApp.
+[Repositório](https://github.com/williandevbr/perfumaria-atacado)
 
-**Frontend**
-React 19 · TypeScript · Vite · Tailwind CSS · React Router · Motion · Recharts
+### Cultura Perto
 
-**Backend**
-Node.js · Express · Zod
+Plataforma colaborativa para descobrir eventos culturais. Permite buscar eventos por cidade, categoria, data, preço e acessibilidade, além de oferecer cadastro, localização e indicadores de acesso.
+[Repositório](https://github.com/williandevbr/cultura-perto)
 
-**Database**
-Supabase (PostgreSQL + Auth) · Firebase Firestore
+## Tecnologias
 
-**Tools**
-Git · GitHub Actions · Vercel · Vitest
+- **Front-end:** React, TypeScript, Vite, Tailwind CSS e React Router.
+- **Back-end e dados:** Node.js, Express, Supabase, Firebase e Zod.
+- **Ferramentas:** Git, GitHub, Vitest e TypeScript.
 
-## Featured projects
+## Foco atual
 
-### OrcaPro — orçamentos para oficinas mecânicas
+- Aprendizado contínuo em TI, desenvolvimento web e segurança.
+- Construção de projetos que resolvam problemasacošperPractical.
+- Uso responsável de inteligência artificial como apoio ao desenvolvimento.
 
-Troca o caderno da oficina por um sistema: clientes, veículos, orçamentos com peças, serviços e mão de obra, PDF profissional e controle de recebido/pendente.
+## Contato
 
-`React` `TypeScript` `Supabase` `Express` `Vitest`
-
-→ [oficina-orcamentos](https://github.com/williandevbr/oficina-orcamentos) · [demo](https://orca-pro-nine.vercel.app)
-
-### BA Perfums — catálogo de perfumes no atacado
-
-Catálogo com ~2.000 produtos, busca, filtros por categoria, carrinho e pedido montado automaticamente para envio no WhatsApp. Sem backend: dados embutidos, carrinho no navegador.
-
-`React` `TypeScript` `Tailwind CSS` `Motion`
-
-→ [perfumaria-atacado](https://github.com/williandevbr/perfumaria-atacado)
-
-### Cultura Perto — descoberta de eventos culturais
-
-Plataforma colaborativa de eventos: busca, filtros por cidade, categoria, data e preço, cadastro de eventos, painel de indicadores com gráficos e exportação CSV. Dados no Firestore, localização via geolocalização.
-
-`React` `TypeScript` `Firebase` `Recharts`
-
-→ [cultura-perto](https://github.com/williandevbr/cultura-perto)
-
----
-
-Brasil
+O melhor contato para projetos e discussions está disponível através do GitHub.
